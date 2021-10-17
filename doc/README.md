@@ -3,5 +3,5 @@
 *1ºASIRa*	
 >Repositorio basado en ejercicios y explicaciones de clase
 >vamos a ver: 
->Finds
+>Finds,
 >operador $
